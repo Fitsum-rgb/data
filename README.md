@@ -1,2 +1,2 @@
 # datasciencecoursea
-Compost TVET Education
+Feasibility of compost TVET Education in Ethiopia
